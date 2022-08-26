@@ -13,7 +13,7 @@ will get you all courses that run in T3
 bash search_courses.sh -v T\[23\]
 will get you all courses ONLY run in T1
 
-bash search_courses.sh 'COMP\[0-9\]\|\[^\|]\]\*security\[^\|\]\*'
+bash search_courses.sh 'COMP\[0-9\]\\|\[^\\|]\]\*security\[^\\|\]\*'
 will get you all courses with 'security' in their course name 
 
 if there are errors you might need to execute 'dos2unix comp.txt' first

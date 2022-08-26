@@ -7,7 +7,7 @@ the -v option gets you the inverse of your expression.
 
 if there are errors you might need to execute 'dos2unix comp.txt' first
 
-# Example
+# Examples
 
 ```
 # will get you all courses that run in T3

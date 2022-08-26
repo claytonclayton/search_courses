@@ -1,4 +1,4 @@
-# search_courses
+# search_courses.sh
 A bash program which displays summaries of UNSW computer science electives
 
 type either 'bash search_courses.sh \<expression\>' or './search_courses.sh \<expression\>' (you will need to 'chmod 775 search_courses.sh' first)
